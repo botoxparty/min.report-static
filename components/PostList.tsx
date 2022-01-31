@@ -52,15 +52,13 @@ function PostList({
     const arr = [];
 
     while (index < mixes.length + posts.length) {
-      if (index % 5 === 0) {
-        if (index > 0) {
+      if ((index + injectedMixes) % 6 === 0 && index > 0) {
           if (injectedMixes < mixes.length) {
             arr.push(mixes[injectedMixes]);
             injectedMixes++;
           } else {
             arr.push(posts[index - injectedMixes]);
           }
-        }
       } else {
         arr.push(posts[index - injectedMixes]);
       }
