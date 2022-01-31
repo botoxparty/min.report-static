@@ -1,0 +1,623 @@
+[
+    {
+        "id": 1783,
+        "date": "2020-10-26T20:48:29",
+        "date_gmt": "2020-10-26T20:48:29",
+        "guid": {
+            "rendered": "https:\/\/min.report\/?post_type=mix&#038;p=1783"
+        },
+        "modified": "2020-10-26T20:49:59",
+        "modified_gmt": "2020-10-26T20:49:59",
+        "slug": "wet-kiss-rocking-ballads",
+        "status": "publish",
+        "type": "mix",
+        "link": "https:\/\/min.report\/mix\/wet-kiss-rocking-ballads",
+        "title": {
+            "rendered": "Rocking Ballads"
+        },
+        "featured_media": 1784,
+        "template": "",
+        "tags": [
+            1024,
+            1023,
+            1021,
+            1019,
+            1018,
+            1015,
+            1020,
+            777,
+            35,
+            883,
+            1017,
+            1013,
+            1022,
+            1016,
+            1014
+        ],
+        "yst_prominent_words": [],
+        "featured_img_x": {
+            "thumb": "https:\/\/media.min.report\/2020\/10\/26203218\/ROCKING_BALLADS-600x600.jpg",
+            "medium": "https:\/\/media.min.report\/2020\/10\/26203218\/ROCKING_BALLADS-1024x1024.jpg",
+            "large": "https:\/\/media.min.report\/2020\/10\/26203218\/ROCKING_BALLADS-1080x1080.jpg"
+        },
+        "soundcloud_url": "https:\/\/soundcloud.com\/min-report\/wet-kiss-rocking-ballads",
+        "linked_post": false,
+        "dj": [
+            {
+                "ID": 40,
+                "user_firstname": "Wet",
+                "user_lastname": "Kiss",
+                "nickname": "wet-kiss",
+                "user_nicename": "wet-kiss",
+                "display_name": "Wet Kiss",
+                "user_email": "brennanolver@gmail.com",
+                "user_url": "",
+                "user_registered": "2020-10-26 20:29:12",
+                "user_description": "",
+                "user_avatar": "<img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6dba148b67fa71eacd3335407528363b?s=96&#038;d=mm&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6dba148b67fa71eacd3335407528363b?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'\/>"
+            }
+        ],
+        "yoast_title": "Rocking Ballads - Minority Report",
+        "yoast_meta": [
+            {
+                "name": "description",
+                "content": "Rocking Ballads \u2014 Minority Report mix by Wet Kiss \/ Brennan Olvr"
+            },
+            {
+                "name": "robots",
+                "content": "noindex,follow"
+            },
+            {
+                "property": "og:locale",
+                "content": "en_US"
+            },
+            {
+                "property": "og:type",
+                "content": "article"
+            },
+            {
+                "property": "og:title",
+                "content": "Rocking Ballads - Minority Report"
+            },
+            {
+                "property": "og:description",
+                "content": "Rocking Ballads \u2014 Minority Report mix by Wet Kiss \/ Brennan Olvr"
+            },
+            {
+                "property": "og:url",
+                "content": "https:\/\/min.report\/mix\/wet-kiss-rocking-ballads"
+            },
+            {
+                "property": "og:site_name",
+                "content": "Minority Report"
+            },
+            {
+                "property": "og:image",
+                "content": "https:\/\/media.min.report\/2020\/10\/26203218\/ROCKING_BALLADS-scaled.jpg"
+            },
+            {
+                "property": "og:image:secure_url",
+                "content": "https:\/\/media.min.report\/2020\/10\/26203218\/ROCKING_BALLADS-scaled.jpg"
+            },
+            {
+                "property": "og:image:width",
+                "content": "2560"
+            },
+            {
+                "property": "og:image:height",
+                "content": "2560"
+            },
+            {
+                "name": "twitter:card",
+                "content": "summary_large_image"
+            },
+            {
+                "name": "twitter:description",
+                "content": "Rocking Ballads \u2014 Minority Report mix by Wet Kiss \/ Brennan Olvr"
+            },
+            {
+                "name": "twitter:title",
+                "content": "Rocking Ballads - Minority Report"
+            },
+            {
+                "name": "twitter:image",
+                "content": "https:\/\/media.min.report\/2020\/10\/26203218\/ROCKING_BALLADS-scaled.jpg"
+            }
+        ],
+        "yoast_json_ld": [
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            }
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/mix\/1783"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/mix"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/types\/mix"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/media\/1784"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/media?parent=1783"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/tags?post=1783"
+                },
+                {
+                    "taxonomy": "yst_prominent_words",
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/yst_prominent_words?post=1783"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 1785,
+        "date": "2020-10-26T20:46:23",
+        "date_gmt": "2020-10-26T20:46:23",
+        "guid": {
+            "rendered": "https:\/\/min.report\/?post_type=mix&#038;p=1785"
+        },
+        "modified": "2020-10-26T20:48:04",
+        "modified_gmt": "2020-10-26T20:48:04",
+        "slug": "dj-barry-turning-points",
+        "status": "publish",
+        "type": "mix",
+        "link": "https:\/\/min.report\/mix\/dj-barry-turning-points",
+        "title": {
+            "rendered": "Turning Points"
+        },
+        "featured_media": 1786,
+        "template": "",
+        "tags": [
+            1033,
+            1027,
+            1031,
+            1028,
+            1030,
+            777,
+            35,
+            1025,
+            1035,
+            1034,
+            1026,
+            1029,
+            1032
+        ],
+        "yst_prominent_words": [],
+        "featured_img_x": {
+            "thumb": "https:\/\/media.min.report\/2020\/10\/26204706\/MR-TP-1-600x450.png",
+            "medium": "https:\/\/media.min.report\/2020\/10\/26204706\/MR-TP-1-1024x768.png",
+            "large": "https:\/\/media.min.report\/2020\/10\/26204706\/MR-TP-1-1440x1080.png"
+        },
+        "soundcloud_url": "https:\/\/soundcloud.com\/min-report\/dj-barry-turning-points",
+        "linked_post": false,
+        "dj": [
+            {
+                "ID": 41,
+                "user_firstname": "D.J.",
+                "user_lastname": "Barry",
+                "nickname": "dj-barry",
+                "user_nicename": "dj-barry",
+                "display_name": "D.J. Barry",
+                "user_email": "simonpure87@gmail.com",
+                "user_url": "",
+                "user_registered": "2020-10-26 20:38:37",
+                "user_description": "",
+                "user_avatar": "<img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ff11640e0ebd39765260a0b672730c76?s=96&#038;d=mm&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ff11640e0ebd39765260a0b672730c76?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'\/>"
+            }
+        ],
+        "yoast_title": "Turning Points - Minority Report",
+        "yoast_meta": [
+            {
+                "name": "description",
+                "content": "Turning Points \u2014 Minority Report mix by D.J. Barry: &quot;In 2017 I wanted to make a semi-regular zine called &#039;Turning Points&#039; with an accompanying mix C.D. I wanted to include interviews, photos, drawings and other inspirations. I planned on having friends and friends of friends contribute to the project ..."
+            },
+            {
+                "name": "robots",
+                "content": "noindex,follow"
+            },
+            {
+                "property": "og:locale",
+                "content": "en_US"
+            },
+            {
+                "property": "og:type",
+                "content": "article"
+            },
+            {
+                "property": "og:title",
+                "content": "Turning Points - Minority Report"
+            },
+            {
+                "property": "og:description",
+                "content": "Turning Points \u2014 Minority Report mix by D.J. Barry: &quot;In 2017 I wanted to make a semi-regular zine called &#039;Turning Points&#039; with an accompanying mix C.D. I wanted to include interviews, photos, drawings and other inspirations. I planned on having friends and friends of friends contribute to the project ..."
+            },
+            {
+                "property": "og:url",
+                "content": "https:\/\/min.report\/mix\/dj-barry-turning-points"
+            },
+            {
+                "property": "og:site_name",
+                "content": "Minority Report"
+            },
+            {
+                "property": "og:image",
+                "content": "https:\/\/media.min.report\/2020\/10\/26204706\/MR-TP-1.png"
+            },
+            {
+                "property": "og:image:secure_url",
+                "content": "https:\/\/media.min.report\/2020\/10\/26204706\/MR-TP-1.png"
+            },
+            {
+                "property": "og:image:width",
+                "content": "4032"
+            },
+            {
+                "property": "og:image:height",
+                "content": "3024"
+            },
+            {
+                "name": "twitter:card",
+                "content": "summary_large_image"
+            },
+            {
+                "name": "twitter:description",
+                "content": "Turning Points \u2014 Minority Report mix by D.J. Barry: &quot;In 2017 I wanted to make a semi-regular zine called &#039;Turning Points&#039; with an accompanying mix C.D. I wanted to include interviews, photos, drawings and other inspirations. I planned on having friends and friends of friends contribute to the project ..."
+            },
+            {
+                "name": "twitter:title",
+                "content": "Turning Points - Minority Report"
+            },
+            {
+                "name": "twitter:image",
+                "content": "https:\/\/media.min.report\/2020\/10\/26204706\/MR-TP-1.png"
+            }
+        ],
+        "yoast_json_ld": [
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            }
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/mix\/1785"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/mix"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/types\/mix"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/media\/1786"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/media?parent=1785"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/tags?post=1785"
+                },
+                {
+                    "taxonomy": "yst_prominent_words",
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/yst_prominent_words?post=1785"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 1779,
+        "date": "2020-10-24T08:32:00",
+        "date_gmt": "2020-10-24T08:32:00",
+        "guid": {
+            "rendered": "https:\/\/min.report\/?post_type=mix&#038;p=1779"
+        },
+        "modified": "2020-10-24T12:43:58",
+        "modified_gmt": "2020-10-24T12:43:58",
+        "slug": "lockdown-lounge-the-chillout-mix",
+        "status": "publish",
+        "type": "mix",
+        "link": "https:\/\/min.report\/mix\/lockdown-lounge-the-chillout-mix",
+        "title": {
+            "rendered": "Lockdown Lounge (The Chillout Mix&#8230;)"
+        },
+        "featured_media": 1375,
+        "template": "",
+        "tags": [],
+        "yst_prominent_words": [],
+        "featured_img_x": {
+            "thumb": "https:\/\/media.min.report\/2020\/07\/11131456\/Lockdown-Lounge-Bossys-1-539x600.jpg",
+            "medium": "https:\/\/media.min.report\/2020\/07\/11131456\/Lockdown-Lounge-Bossys-1-921x1024.jpg",
+            "large": "https:\/\/media.min.report\/2020\/07\/11131456\/Lockdown-Lounge-Bossys-1-971x1080.jpg"
+        },
+        "soundcloud_url": "https:\/\/soundcloud.com\/min-report\/bossys-gallery-djs-lockdown-loungethe-chillout-mix",
+        "linked_post": "https:\/\/min.report\/bossys-gallery\/lockdown-lounge-the-chillout-mix",
+        "dj": [
+            {
+                "ID": 31,
+                "user_firstname": "Bossy's",
+                "user_lastname": "Gallery",
+                "nickname": "bossys-gallery",
+                "user_nicename": "bossys-gallery",
+                "display_name": "Bossy's Gallery",
+                "user_email": "madeleine.russo@hotmail.com",
+                "user_url": "",
+                "user_registered": "2020-07-10 06:10:04",
+                "user_description": "",
+                "user_avatar": "<img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8a10ebdf4883c32e8208ef75ccc9c88d?s=96&#038;d=mm&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8a10ebdf4883c32e8208ef75ccc9c88d?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'\/>"
+            }
+        ],
+        "yoast_title": "Lockdown Lounge (The Chillout Mix...) - Minority Report",
+        "yoast_meta": [
+            {
+                "name": "robots",
+                "content": "noindex,follow"
+            },
+            {
+                "property": "og:locale",
+                "content": "en_US"
+            },
+            {
+                "property": "og:type",
+                "content": "article"
+            },
+            {
+                "property": "og:title",
+                "content": "Lockdown Lounge (The Chillout Mix...) - Minority Report"
+            },
+            {
+                "property": "og:url",
+                "content": "https:\/\/min.report\/mix\/lockdown-lounge-the-chillout-mix"
+            },
+            {
+                "property": "og:site_name",
+                "content": "Minority Report"
+            },
+            {
+                "property": "og:image",
+                "content": "https:\/\/media.min.report\/2020\/07\/11131456\/Lockdown-Lounge-Bossys-1-scaled.jpg"
+            },
+            {
+                "property": "og:image:secure_url",
+                "content": "https:\/\/media.min.report\/2020\/07\/11131456\/Lockdown-Lounge-Bossys-1-scaled.jpg"
+            },
+            {
+                "property": "og:image:width",
+                "content": "2302"
+            },
+            {
+                "property": "og:image:height",
+                "content": "2560"
+            },
+            {
+                "name": "twitter:card",
+                "content": "summary_large_image"
+            },
+            {
+                "name": "twitter:title",
+                "content": "Lockdown Lounge (The Chillout Mix...) - Minority Report"
+            },
+            {
+                "name": "twitter:image",
+                "content": "https:\/\/media.min.report\/2020\/07\/11131456\/Lockdown-Lounge-Bossys-1-scaled.jpg"
+            }
+        ],
+        "yoast_json_ld": [
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            },
+            {
+                "@context": "https:\/\/schema.org",
+                "@type": "Organization",
+                "url": "https:\/\/min.report\/",
+                "sameAs": [],
+                "@id": "#organization",
+                "name": "The Minority Report",
+                "logo": "https:\/\/media.min.report\/2018\/02\/MinorityReport_Logo-web.gif"
+            }
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/mix\/1779"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/mix"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/types\/mix"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/media\/1375"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/media?parent=1779"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/tags?post=1779"
+                },
+                {
+                    "taxonomy": "yst_prominent_words",
+                    "embeddable": true,
+                    "href": "https:\/\/admin.min.report\/index.php\/wp-json\/wp\/v2\/yst_prominent_words?post=1779"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
