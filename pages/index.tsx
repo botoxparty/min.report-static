@@ -23,6 +23,12 @@ const SCHead = styled.header`
   margin: 1rem 0;
 `;
 
+const SCShutdown = styled.div`
+  max-width: 640px;
+  margin: auto;
+  padding: 0 1rem;
+  `
+
 const Home: NextPage = () => {
   useScrollToTop();
   // useMetaTags(
@@ -58,9 +64,18 @@ const Home: NextPage = () => {
       </Head>
       <SCHead>
         <Logo />
-        <p>
-          This is an archive of content from Minority Report.
-        </p>
+        <SCShutdown>
+          <p>
+          Minority Report was an experiment from 2017 - 2022 by Adam Hammad and Audrey Schmidt.
+          </p>
+          <p>
+          Originally meant to be a place for diverse, internationally-focused and critical content... <br></br>Under the autocratic curation of Audrey Schmidt it had become a local, government-funded, white-feminist blog.
+          </p>
+          <p>In 2022 it was offically ended by Adam Hammad because of issues with diversity and representation. </p>
+          <p>
+          This is an archive of the content.
+          </p>
+        </SCShutdown>
       </SCHead>
       <PostList
         posts={posts as any[]}
