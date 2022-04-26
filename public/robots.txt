@@ -1,3 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
+# *
 User-agent: *
-Disallow:
+Allow: /
+
+# Host
+Host: https://min.report
+
+# Sitemaps
+Sitemap: https://min.report/sitemap.xml
