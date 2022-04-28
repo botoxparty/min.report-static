@@ -70,7 +70,8 @@ const Home: NextPage = () => {
           </p>
           <p>
           Originally meant to be a place for diverse, internationally-focused and critical content... 
-          <p>In 2022 it was offically ended by Adam Hammad because of issues with diversity and representation. </p>
+          </p>
+          <p>In 2022 it was offically ended by Adam Hammad because of issues with diversity and representation in the curation. </p>
           <p>
           This is an archive of the content.
           </p>
