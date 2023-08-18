@@ -66,12 +66,8 @@ const Home: NextPage = () => {
         <Logo />
         <SCShutdown>
           <p>
-          Minority Report was an experiment from 2017 - 2022 by Adam Hammad and Audrey Schmidt.
+          Minority Report was online between 2017 - 2022
           </p>
-          <p>
-          Originally meant to be a place for diverse, internationally-focused and critical content... 
-          </p>
-          <p>In 2022 it was offically ended by Adam Hammad because of issues with diversity and representation in the curation. </p>
           <p>
           This is an archive of the content.
           </p>
